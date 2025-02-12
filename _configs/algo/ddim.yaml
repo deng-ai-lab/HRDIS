@@ -1,0 +1,6 @@
+
+
+name: 'ddim'
+eta: 0.5
+sdedit: False
+cond_awd: False

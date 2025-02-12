@@ -1,0 +1,8 @@
+
+
+port: "5124"
+master_address: "localhost"
+node_rank: 0
+num_proc_node: 1
+num_processes_per_node: 4
+backend: "gloo"   #"nccl"

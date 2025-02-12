@@ -1,0 +1,8 @@
+name: "ImageNet_256x256"
+root: "./data/imagenet"
+split: "val"
+image_size: 256
+channels: 3
+meta_root: "_exp"
+transform: "diffusion"
+subset_txt: "misc/dgp_top1k.txt"  

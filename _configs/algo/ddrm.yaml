@@ -1,0 +1,7 @@
+
+name: "ddrm"
+sigma_y: 0.0
+eta: 0.85
+eta_b: 1
+deg: "deno"
+lr: 0.25

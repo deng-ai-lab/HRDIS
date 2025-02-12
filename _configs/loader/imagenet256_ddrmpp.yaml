@@ -1,0 +1,7 @@
+
+
+batch_size: 1
+num_workers: 12
+shuffle: False
+drop_last: False
+pin_memory: True

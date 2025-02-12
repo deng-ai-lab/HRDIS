@@ -1,0 +1,7 @@
+name: "FFHQ_256x256"
+root: "./data/FFHQ"
+split: "val"
+image_size: 256
+channels: 3
+transform: "default"
+subset: 1000

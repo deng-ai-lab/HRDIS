@@ -1,0 +1,12 @@
+
+
+name: "pgdm"
+deg: "deno"
+awd: True
+cond_awd: False
+#grad_term_weight: 1
+grad_term_weight: 0.01
+sigma_y: 0.0
+eta: 0.0
+mcg: False
+lr: 0.25
