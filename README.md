@@ -1,7 +1,12 @@
 # Hybrid Regularization Improves Diffusion-based Inverse Problem Solving (ICLR 2025) [Paper](https://openreview.net/forum?id=d7pr2doXn3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
-This is the README file for the implementaiton of *Hybrid Regularization Empowers Diffusion-based Inverse Problem Solving*. 
+This is the README file for the implementaiton of *Hybrid Regularization Empowers Diffusion-based Inverse Problem Solving (HRDIS)*. 
 
+<p align="center">
+<img src="fig/intro.png" width="1000">
+<br>
+<em> 🌟Comparison between <a href="https://arxiv.org/abs/2305.04391">RED-diff</a> and our proposed HRDIS. </em>
+</p>
 ## Installation
 
 Download [ImageNet](https://image-net.org/) and [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset. You need to write your data directory at _configs\dataset\imagenet256_val(ffhq256_val).yaml.
