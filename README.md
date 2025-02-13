@@ -61,7 +61,7 @@ sh sample_test.sh
 
 ## Reference
 
-```
+```bibtex
 @inproceedings{
 dou2025hybrid,
 title={Hybrid Regularization Improves Diffusion-based Inverse Problem Solving},
