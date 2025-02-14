@@ -1,6 +1,6 @@
 # Hybrid Regularization Improves Diffusion-based Inverse Problem Solving (ICLR 2025) [Paper](https://openreview.net/pdf?id=d7pr2doXn3)
 
-This is the README file for the implementaiton of *Hybrid Regularization Empowers Diffusion-based Inverse Problem Solving (HRDIS)*. 
+This is the README file for the implementation of *Hybrid Regularization Empowers Diffusion-based Inverse Problem Solving (HRDIS)*. 
 
 <p align="center">
 <img src="fig/intro.png" width="1000">
@@ -9,7 +9,7 @@ This is the README file for the implementaiton of *Hybrid Regularization Empower
 </p>
 
 <p align="center">
-<img src="fig/seed.png" width="550">
+<img src="fig/seed.png" width="500">
 <br>
 <em> 🌠HRDIS can generate diverse and clear reconstructions. </em>
 </p>
@@ -29,7 +29,7 @@ transform: "diffusion"
 subset_txt: "misc/dgp_top1k.txt"  
 ```
 
-Download pretrained checkpoints and put them in _exp/ckpts as following file.
+Download pretrained checkpoints and put them in _exp/ckpts as the following file.
 
 | Dataset                                         | File                                      | Model Source |
 |-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
@@ -59,7 +59,7 @@ Select the test dataset by enabling the following code in ./main.py
 #@hydra.main(version_base="1.2", config_path="_configs", config_name="ffhq256_uncond")
 ```
 
-Tune the hyperparamaters interactively using sampling script: 
+Tune the hyperparameters interactively using the sampling script: 
 
 ```
 sh sample_test.sh 
