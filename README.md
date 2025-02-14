@@ -1,6 +1,6 @@
 # Hybrid Regularization Improves Diffusion-based Inverse Problem Solving (ICLR 2025) [Paper](https://openreview.net/pdf?id=d7pr2doXn3)
 
-This is the README file for the implementation of *Hybrid Regularization Empowers Diffusion-based Inverse Problem Solving (HRDIS)*. 
+This is the README file for the implementation of *Hybrid Regularization Improves Diffusion-based Inverse Problem Solving (HRDIS)*. 
 
 <p align="center">
 <img src="fig/intro.png" width="1000">
