@@ -9,9 +9,9 @@ This is the README file for the implementaiton of *Hybrid Regularization Empower
 </p>
 
 <p align="center">
-<img src="fig/seed.png" width="600">
+<img src="fig/seed.png" width="550">
 <br>
-<em> 🌠HRDIS can generate diverse  reconstructions. </em>
+<em> 🌠HRDIS can generate diverse and clear reconstructions. </em>
 </p>
 
 ## Installation
