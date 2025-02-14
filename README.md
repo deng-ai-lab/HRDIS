@@ -8,6 +8,12 @@ This is the README file for the implementaiton of *Hybrid Regularization Empower
 <em> 🌟Comparison between <a href="https://arxiv.org/abs/2305.04391">RED-diff</a> and our proposed HRDIS. </em>
 </p>
 
+<p align="center">
+<img src="fig/seed.png" width="600">
+<br>
+<em> 🌠HRDIS can generate diverse  reconstructions. </em>
+</p>
+
 ## Installation
 
 Download [ImageNet](https://image-net.org/) and [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset. You need to write your data directory at _configs\dataset\imagenet256_val(ffhq256_val).yaml.
